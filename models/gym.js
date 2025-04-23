@@ -34,3 +34,6 @@ const gymSchema = mongoose.Schema({
 const modal = mongoose.model("gym",gymSchema);
 
 module.exports = modal;
+
+
+//gym model for taking input of gym owners
